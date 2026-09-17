@@ -1,7 +1,7 @@
 # COOKBOOK APP
 
 <p align="center">
-  <img src="./readme-assets/demo.gif" alt="Cookbook" height="500" style="border-radius: 35px;" />
+  <img src="./demo/demo.gif" alt="Cookbook" height="500" style="border-radius: 35px;" />
 </p>
 
 ## Proje Hakkında
